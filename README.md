@@ -1,4 +1,4 @@
-# practice_app
+# Online Book Store UI
 
 A new Flutter project.
 
