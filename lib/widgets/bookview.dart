@@ -17,7 +17,7 @@ class BookView extends StatelessWidget {
       })),
       child: Container(
         margin: const EdgeInsets.all(8),
-        height: 192,
+        height: 240,
         width: 142,
         child: Column(
           crossAxisAlignment: CrossAxisAlignment.start,

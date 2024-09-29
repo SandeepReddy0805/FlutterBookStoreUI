@@ -64,7 +64,7 @@ class Home extends StatelessWidget {
             ),
             const Heading(text: 'Popular Now'),
             SizedBox(
-              height: 280,
+              height: 320,
               child: ListView.builder(
                 scrollDirection: Axis.horizontal,
                 key: listkey,
@@ -74,7 +74,7 @@ class Home extends StatelessWidget {
             ),
             const Heading(text: 'Best Sellers'),
             SizedBox(
-              height: 280,
+              height: 320,
               child: ListView.builder(
                 scrollDirection: Axis.horizontal,
                 itemCount: bestSellers.length,
